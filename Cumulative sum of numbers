@@ -1,0 +1,13 @@
+list=[]
+for i in range(5):
+    n = int(input())
+    list.append(n)
+
+new_list=[]
+j=0
+for i in range(0,len(list)):
+    j+=list[i]
+    new_list.append(j)
+     
+for i in new_list:
+    print(i)
