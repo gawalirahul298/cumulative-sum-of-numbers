@@ -1,0 +1,1 @@
+# cumulative-sum-of-numbers
